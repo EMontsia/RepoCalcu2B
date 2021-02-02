@@ -335,6 +335,9 @@ public class Calculadora {
 
 	}
 
+/**
+ * Metode que calcula el resultat a mostrar en apretar el boto igual
+ */
 	public void executarIgual(){
 		int resultat = 0;
 
