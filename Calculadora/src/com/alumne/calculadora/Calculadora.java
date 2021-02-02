@@ -89,7 +89,7 @@ public class Calculadora {
 		shell.setSize(259, 250);
 		shell.setText("Calculadora");
 
-
+ 
 		//-------------------------------------------------
 		//Números
 		//-------------------------------------------------
